@@ -69,10 +69,12 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-17
+  x86_64-darwin-18
 
 DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-last-modified-at!
 
 BUNDLED WITH
-   2.1.4
+   2.2.0

@@ -3,8 +3,9 @@
   {% include head.html %}
   <body>
     <nav>{% include nav.html %}</nav>
-    <div class="wrapper">
+    <div class="wrapper" id="notes-entry-container">
       <main>{{ content }}</main>
+      <side> {% include email-optin.html %} </side>
       <footer>{% include footer.html %}</footer>
     </div>
 

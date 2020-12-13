@@ -13,6 +13,10 @@ Welcome to my **digital garden**, which is a place for me to think out loud, mos
 
 Here are a couple entry points into the garden.
 
+## Learning
+
+- [[Language learning]]
+
 ## Linguistics
 
 - [[Typology]]
@@ -23,7 +27,7 @@ Here are a couple entry points into the garden.
 
 
 <style>
-  .wrapper {
+  /* .wrapper {
     max-width: 46em;
-  }
+  } */
 </style>

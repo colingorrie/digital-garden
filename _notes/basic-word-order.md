@@ -25,7 +25,7 @@ Quechua: SOV
 ```
 Mila-qa      vikuña-n-kuna-ta   riku-ra.
 Melanie-CASE vicuña-her-PL-CASE see-AGR.PAST
-'Melanie saw her vicuñas.' (283)
+'Melanie saw her vicuñas.' (Shimelman 2017: 283)
 ```
 
 Mongolian: SOV
@@ -33,7 +33,7 @@ Mongolian: SOV
 ```
 Xüü öcigdör   oxin-d  nom  ög-sön.
 boy yesterday girl-to book give-AGR
-'The boy gave a book to the girl yesterday.' (170)
+'The boy gave a book to the girl yesterday.' (Svantesson 2003: 170)
 ```
 
 Akkadian: SOV
@@ -41,7 +41,7 @@ Akkadian: SOV
 ```
 Il-āt-um        ḫurāṣ-am ša      šarrim       i-ṣbat-ā._
 god-FEM-CASE.PL gold-CASE.SG REL king-CASE.SG AGR.PAST-seize-AGR.PST
-'The goddesses seized the king's gold. (20)
+'The goddesses seized the king's gold. (Huehnergard 2011: 20)
 ```
 
 ### SVO
@@ -51,7 +51,7 @@ Swahili: SVO
 ```
 Fatma a-na-m-penda      Suhail.
 Fatma AGR-PRES-AGR-love Suhail
-'Fatma loves Suhail.' (244)
+'Fatma loves Suhail.' (Thomson and Schleicher 2001: 244)
 ```
 
 Southern Min: SVO
@@ -59,7 +59,7 @@ Southern Min: SVO
 ```
 Gua2 sang3 i1  tsit8-niann2 sann1.
 I    give  him one-CLASS    shirt
-'I gave him a shirt' (25)
+'I gave him a shirt' (Chappell 2018: 212)
 ```
 
 ## Geographical distribution
@@ -103,6 +103,20 @@ Languages with no fixed word order are not especially common, but they tend to o
 
 When determining a language's basic word order, we look at the order used in statements (e.g. rather than questions) and in context where there are no pragmatic factors influencing word order. English is an SVO language (_I eat pizza_), but in certain contexts other orders are possible. For example, when contrasting the object of a sentence with another potential object, the object can come first: _Pizza I eat but cake I don't touch._.
 
+---
+
 ## Further reading
 
-Matthew S. Dryer. 2013. Order of Subject, Object and Verb. In: Dryer, Matthew S. & Haspelmath, Martin (eds.) The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at [http://wals.info/chapter/81](http://wals.info/chapter/81), Accessed on 2020-10-11.)
+Dryen, Matthew S. (2013). Order of Subject, Object and Verb. In Matthew S. Dryen & Martin Haspelmath (eds.) *The World Atlas of Language Structures Online*. Max Planck Institute for Evolutionary Anthropology, Leipzig. (Available online at [http://wals.info/chapter/81](http://wals.info/chapter/81), Accessed on 2020-10-11.)
+
+## Works cited
+
+Chappell, Hilary (2018). Southern Min. In Alice Vittrant & Justin Watkins (eds.) *The Mainland Southest Asia Linguistic Area*. Mouton de Gruyter, Berlin: 176–233.
+
+Huehnergard, John (2001). *A Grammar of Akkadian. Third Edition*. Eisenbrauns, Winona Lake IN.
+
+Shimelman, Aviva (2017). *A Grammar of Yauyos Quechua*. Language Science Press, Berlin.
+
+Svantesson, Jan-Olof (2003). Khalkha. In Juha Janhunen (ed.) *The Mongolic Languages*. Routledge, London: 154–176.
+
+Thompson, Katrina Daly and Antonia Folarin Schleicher (2001). *Swahili Learners' Reference Grammar*. National African Language Resource Center, Madison WI.

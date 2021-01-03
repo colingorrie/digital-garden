@@ -1,6 +1,5 @@
 ---
 title: "Language learning"
-
 ---
 
 This article contains practical advice for [[Language learning]]. For the academic study of how humans learn second languages, see [[Second language acquisition]].

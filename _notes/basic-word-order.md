@@ -111,12 +111,8 @@ Dryen, Matthew S. (2013). Order of Subject, Object and Verb. In Matthew S. Dryen
 
 ## Works cited
 
-Chappell, Hilary (2018). Southern Min. In Alice Vittrant & Justin Watkins (eds.) *The Mainland Southest Asia Linguistic Area*. Mouton de Gruyter, Berlin: 176–233.
-
-Huehnergard, John (2001). *A Grammar of Akkadian. Third Edition*. Eisenbrauns, Winona Lake IN.
-
-Shimelman, Aviva (2017). *A Grammar of Yauyos Quechua*. Language Science Press, Berlin.
-
-Svantesson, Jan-Olof (2003). Khalkha. In Juha Janhunen (ed.) *The Mongolic Languages*. Routledge, London: 154–176.
-
-Thompson, Katrina Daly and Antonia Folarin Schleicher (2001). *Swahili Learners' Reference Grammar*. National African Language Resource Center, Madison WI.
+- [[chappell2018southern]]
+- [[huehnergard2001grammar]]
+- [[shimelman2017grammar]]
+- [[svantesson2003khalka]]
+- [[thompson2001swahili]]

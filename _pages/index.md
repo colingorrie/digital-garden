@@ -25,6 +25,13 @@ Here are a couple entry points into the garden.
 
 - [[Personal knowledge management]]
 
+## Psychology
+
+- [[Second language acquisition]]
+
+---
+
+This digital garden is based on the superb [template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by [Maxime Vaillancourt](https://maximevaillancourt.com/).
 
 <style>
   /* .wrapper {

@@ -107,7 +107,7 @@ When determining a language's basic word order, we look at the order used in sta
 
 ## Further reading
 
-Dryen, Matthew S. (2013). Order of Subject, Object and Verb. In Matthew S. Dryen & Martin Haspelmath (eds.) *The World Atlas of Language Structures Online*. Max Planck Institute for Evolutionary Anthropology, Leipzig. (Available online at [http://wals.info/chapter/81](http://wals.info/chapter/81), Accessed on 2020-10-11.)
+- [[dryer2013order]]
 
 ## Works cited
 

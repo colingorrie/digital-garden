@@ -1,8 +1,8 @@
 ---
-title: "Language learning"
+title: 'Language learning'
 ---
 
-This article contains practical advice for [[Language learning]]. For the academic study of how humans learn second languages, see [[Second language acquisition]].
+This article contains practical advice for [[Language]] learning. For the academic study of how humans learn second languages, see [[Second language acquisition]].
 
 ## Soft Skills
 
@@ -50,7 +50,7 @@ This article contains practical advice for [[Language learning]]. For the academ
 
 ### Spaced repetition
 
-- *coming soon*
+- _coming soon_
 
 ## Finding resources
 

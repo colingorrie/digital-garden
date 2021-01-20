@@ -19,6 +19,7 @@ Here are a couple entry points into the garden.
 
 ## Linguistics
 
+- [[Language]]
 - [[Typology]]
 
 ## Meta

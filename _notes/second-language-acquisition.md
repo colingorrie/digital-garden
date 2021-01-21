@@ -18,7 +18,7 @@ These observations deal with five principal topics:
 
 Theories of SLA differ widely as to their theory of the nature of second language knowledge. For some, this knowledge is present in an innate, specialized faculty of symbolic rules and representations (i.e. [[Universal Grammar]] of [[Generative linguistics]]). For others (e.g. [[Usage-based approaches to SLA]] and [[Skill acquisition theory]]), knowledge of language is similar to other kinds of knowledge. All, however, have to contend with two core observations:
 
-- [[Much of second language acquisition happens incidentally]]
+- [[Much of second language acquisition occurs by implicit learning]]
 - [[Second language learners acquire knowledge beyond what is present in the input]]
 
 ### Interlanguage
@@ -35,7 +35,7 @@ The idea that a learner's first language has a major effect on second language a
 
 ### The linguistic environment
 
-All theories agree that the linguistic environment plays an important role in second language acquisition, but the nature of this role, and the relative contribution of different aspects of the environment are matters of controversy. We know that [[Second language acquisition requires exposure to input]] but the that [[The effect of input frequency in SLA is limited]]. Furthermore, it also appears that [[The effect of output on second language acquisition is limited]].
+All theories agree that the linguistic environment plays an important role in second language acquisition, but the nature of this role, and the relative contribution of different aspects of the environment are matters of controversy. We know that [[Second language acquisition requires exposure to input]] but the that [[The effect of input frequency in SLA is limited]]. Furthermore, it also appears that [[The effect of learner output on second language acquisition is limited]].
 
 ### Instruction
 

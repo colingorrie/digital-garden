@@ -1,5 +1,6 @@
 ---
 title: 'Extensive reading'
+target: 1
 ---
 
 ## Characteristics of the ideal reading habit

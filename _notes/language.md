@@ -1,5 +1,6 @@
 ---
 title: 'Language'
+level: 1
 ---
 
 ## Definition

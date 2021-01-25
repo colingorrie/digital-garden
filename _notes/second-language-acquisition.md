@@ -1,5 +1,6 @@
 ---
 title: 'Second language acquisition'
+level: 2
 ---
 
 Various theories have been advanced to explain how second [[Language|languages]] are acquired. Each of these seeks to account for a relatively uncontroversial set of observations that constitute the empirical base of Second language acquisition (SLA).

@@ -1,5 +1,6 @@
 ---
 title: 'Basic word order'
+level: 2
 ---
 
 **Basic word order** refers to the order in which the major constituents of a sentence appear under ordinary circumstances. These constituents are: the subject, the (direct) object, and the verb. The ordering of these three elements correlates with many other aspects of a language's grammar, so describing a language's basic word order early is extremely helpful.

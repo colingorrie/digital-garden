@@ -9,26 +9,17 @@ permalink: /
 
 Hi, I'm **Colin Gorrie**. I [teach linguistics online](https://colingorrie.com/courses). For more about me and what I do, check out [my main website](https://colingorrie.com).
 
-Welcome to my **digital garden**, which is a place for me to think out loud, mostly about linguistics and related topics.
+Welcome to my **digital garden**, which is a place for me to cultivate ideas. There are many pathways through the garden. Here are some ways in.
 
-Here are a couple entry points into the garden.
+## By course
 
-## Learning
+- [[Language Construction Workshop]]
+- [[Meta-skills for Language Learning]]
+
+## By topic
 
 - [[Language learning]]
-
-## Linguistics
-
-- [[Language]]
-- [[Typology]]
-
-## Meta
-
-- [[Personal knowledge management]]
-
-## Psychology
-
-- [[Second language acquisition]]
+- [[Linguistics]]
 
 ---
 

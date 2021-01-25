@@ -1,14 +1,13 @@
 ---
-
-title: "The effect of instruction on second language acquisition is limited"
-
+title: 'The effect of instruction on second language acquisition is limited'
+level: 2
 ---
 
 The findings regarding the efficacy of instruction on [[Second language acquisition]] is mixed. Counterintuivitely, instruction is not always helpful.
 
 - Instruction sometimes has no effect on acquisition.
 
-	It cannot allow learners to skip steps in developmental sequences (see [[Learners' output proceeds along predictable paths]]).
+  It cannot allow learners to skip steps in developmental sequences (see [[Learners' output proceeds along predictable paths]]).
 
 - Instruction can sometimes slow down acquisition.
 

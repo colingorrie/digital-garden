@@ -2,9 +2,11 @@
 title: 'Language Construction Workshop'
 ---
 
+This is a **pathway** through the digital garden based on the contents of my course [Language Construction Workshop](https://colingorrie.com/courses/conlang-100).
+
 ## Week 1
 
-- [[What is language?]]
+- [[language|What is language?]]
 - [[Components of language - grammar and the lexicon]]
 - [[Descriptive and prescriptive grammar]]
 - [[Standard Average European and linguistic diversity]]

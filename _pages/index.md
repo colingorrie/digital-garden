@@ -11,7 +11,7 @@ Hi, I'm **Colin Gorrie**. I [teach linguistics online](https://colingorrie.com/c
 
 Welcome to my **digital garden**, which is a place for me to cultivate ideas.
 
-There are many pathways through the garden. Here are some ways in.
+There are many pathways through the garden. Here are some ways in...
 
 ## By course
 

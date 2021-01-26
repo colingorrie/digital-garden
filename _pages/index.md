@@ -9,12 +9,13 @@ permalink: /
 
 Hi, I'm **Colin Gorrie**. I [teach linguistics online](https://colingorrie.com/courses). For more about me and what I do, check out [my main website](https://colingorrie.com).
 
-Welcome to my **digital garden**, which is a place for me to cultivate ideas. There are many pathways through the garden. Here are some ways in.
+Welcome to my **digital garden**, which is a place for me to cultivate ideas.
+
+There are many pathways through the garden. Here are some ways in.
 
 ## By course
 
 - [[Language Construction Workshop]]
-- [[Meta-skills for Language Learning]]
 
 ## By topic
 

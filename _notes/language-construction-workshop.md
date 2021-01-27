@@ -56,7 +56,7 @@ In this session, we expand the grammar we created in the previous week to do the
 - [[Grammatical person]]
 - [[Expressing grammatical relations - Agreement]]
 - [[Personal pronouns]]
-- [[Demonstrative pronouns]]
+- [[demonstrative-pronoun|Demonstrative pronouns]]
 - [[complementizer|Combining clauses with complementizers]]
 - [[adposition|Expressing precise relationships with adpositions]]
 

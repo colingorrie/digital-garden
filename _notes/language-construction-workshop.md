@@ -4,7 +4,7 @@ title: 'Language Construction Workshop'
 
 This is a **pathway** through the digital garden based on the contents of my course [Language Construction Workshop](https://colingorrie.com/courses/conlang-100).
 
-## Week 1
+## Week 1: Introduction
 
 What is a language and what does it mean to construct a language? In this session, we learn enough of the basics of linguistics to figure out what we need to do to make our first conlang.
 
@@ -18,7 +18,7 @@ What is a language and what does it mean to construct a language? In this sessio
 - [[Phone and phoneme]]
 - [[Phonological inventories]]
 
-## Week 2
+## Week 2: The Sounds of Your Language
 
 What gives a language its unique sound? In this session, we learn how to classify different types of sounds and use that information to create a palette of sounds for your language to draw on. Then we learn how to combine these sounds to make words according to a unique blueprint for your language.
 
@@ -32,7 +32,7 @@ What gives a language its unique sound? In this session, we learn how to classif
 - [[Syllables and syllable structure]]
 - [[Stress]]
 
-## Week 3
+## Week 3: From Words to Sentences
 
 This session is about going from the language’s first words to the language’s first sentences. To do this, we learn the different strategies languages use to package meaning into words. Then we learn about the different ways languages express relationships between words. This gives us the tools to start making sentences.
 

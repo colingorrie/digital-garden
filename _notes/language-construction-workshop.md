@@ -57,8 +57,8 @@ In this session, we expand the grammar we created in the previous week to do the
 - [[Expressing grammatical relations - Agreement]]
 - [[Personal pronouns]]
 - [[Demonstrative pronouns]]
-- [[Combining clauses - the complementizer]]
-- [[Expressing precise relationships with adpositions]]
+- [[complementizer|Combining clauses with complementizers]]
+- [[adposition|Expressing precise relationships with adpositions]]
 
 ## Week 5: Delightful Complications
 

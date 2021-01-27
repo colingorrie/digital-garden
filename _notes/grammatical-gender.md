@@ -19,6 +19,6 @@ Other ways of classifying nouns:
   - _balam_: nonflesh food
   - _bala_: everything not in the other classes
   - Note: "If some noun has characteristic X… but is, through belief or myth, connected with characteristic Y, then generally it will belong to the class corresponding to Y and not that corresponding to X" ([[lakoff1987women]]: 94)
-- Bantu noun classification systems, e.g. Swahili.
+- Bantu noun classification systems, e.g. Swahili (see [Wikipedia entry](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages)).
 
 Grammatical gender categories always have some semantic basis (i.e. basis in the qualities of the nouns). But any gender/noun class system has exceptions, arbitrariness, non-semantic factors (no matter what, nouns ending in -_chen_ are neuter in German)

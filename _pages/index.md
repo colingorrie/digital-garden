@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-Hi, I'm **Colin Gorrie**. I [teach linguistics online](https://colingorrie.com/courses). For more about me and what I do, check out [my main website](https://colingorrie.com).
+Hi, I'm **Colin Gorrie**. I [teach linguistics online](https://www.colingorrie.com/courses). For more about me and what I do, check out [my main website](https://www.colingorrie.com).
 
 Welcome to my **digital garden**, which is a place for me to cultivate ideas.
 

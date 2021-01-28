@@ -2,7 +2,7 @@
 title: 'Language Construction Workshop'
 ---
 
-This is a **pathway** through the digital garden based on the contents of my course [Language Construction Workshop](https://colingorrie.com/courses/conlang-100).
+This is a **pathway** through the digital garden based on the contents of my course [Language Construction Workshop](https://www.colingorrie.com/courses/conlang-100).
 
 ## Week 1: Introduction
 
@@ -55,7 +55,7 @@ In this session, we expand the grammar we created in the previous week to do the
 - [[Expressing grammatical relations - Case]]
 - [[Grammatical person]]
 - [[Expressing grammatical relations - Agreement]]
-- [[Personal pronouns]]
+- [[personal pronoun|Personal pronouns]]
 - [[demonstrative pronoun|Demonstrative pronouns]]
 - [[complementizer|Combining clauses with complementizers]]
 - [[adposition|Expressing precise relationships with adpositions]]

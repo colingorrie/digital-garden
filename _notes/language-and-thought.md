@@ -1,0 +1,12 @@
+---
+title: 'Language and thought'
+level: 1
+---
+
+If you've seen the movie Arrival, read 1984, or studied the conlangs [Láadan](https://laadanlanguage.com/) or [Toki Pona](https://tokipona.org/), you'll have encountered the idea that the language we speak constrains, determines, or otherwise influences what we can think. By some quirk of history, this idea has come to rest in the public mind under the name the **Sapir-Whorf hypothesis**, after two influential American linguists of the early 20th century who developed and promulgated these ideas, Edward Sapir and Benjamin Lee Whorf. In linguistics circles, however, you'll most often hear the idea – really, a family of ideas – called **linguistic relativity**.
+
+Linguistic relativity is a concept whose fortunes have waxed and waned along with the intellectual tides: until the 1960s, some version of linguistic relativity was the dominant position. The ideas were supported by the larger climate of linguistics in the early and mid-20th century: it was a time where linguists turned their attention for the first time to the study of the indigenous languages of the Americas. There, they found much more grammatical variety than what they had been accustomed to in the languages of Europe, the original dataset that linguistic theory grew out of and sought to explain. Linguists of this period were often working within an anthropological tradition, and their priority was to catalogue the diversity of structures they found in language.
+
+By the 1960s, however, the intellectual fashion had changed: with the cognitive revolution underway – a revolution led in many ways by [developments in linguistics](https://chomsky.info/1967____/) – the next generations of linguists were much more inclined to seek the universals of human language than their variety. With this swing of the pendulum, linguistic relativity went out of style.
+
+But all pendulums eventually swing back: by the 1980s and 1990s, a version of linguistic relativity came back into prominence, as new experimental work began to show that the language one speaks does indeed have an influence on aspects of thought. Just what sort of influence? On what aspects of thought? These questions remain open to this day. Just about the only positions that don't seem tenable anymore are those at the extremes: that language has no influence on thought, or that language determines thought totally.

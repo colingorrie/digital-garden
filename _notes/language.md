@@ -61,3 +61,7 @@ One aspect of the systematicity of language that is of paramount importance to l
 From a finite set of symbols (e.g. words) and rules for combining them (i.e. grammar), a language can produce an infinite set of sentences. Explaining how this is possible is a central topic of study in linguistics.
 
 See [[Design features of language]] (where this property is called **productivity**).
+
+## Language and thought
+
+See [[Language and thought]].
